@@ -1,0 +1,29 @@
+id: PBB0761B2
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA29627
+  instance_id: http://purl.bdrc.io/resource/IE29627
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - གྲྭ་ཐང་རྒྱུད་བཞི།
+  alt_title: {}
+  author: http://purl.bdrc.io/resource/P4333
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    f3fd2bcec2604f32afed7de9b8fb34ee:
+      title: པོད ༡་གྲྭ་ཐང་རྒྱུད་བཞི
+      volume_number: 1
+      base_file: UT29627_I1PD464_0000.txt
+      reference: http://purl.bdrc.io/resource/VL2081429FB0185C8F
+      image_group: I1PD464
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/W29627
+  - http://purl.bdrc.io/resource/MW29627
+  ocr_software: Namsel
+created_at: '2021-12-22T11:12:36.159837'
+last_modified_at: '2021-12-22T11:12:36.159843'
